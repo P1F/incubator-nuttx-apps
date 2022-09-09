@@ -24,10 +24,10 @@ Configuring NuttX to use your Wireless Router (aka Access Point)
             Networking Configuration  --->
                 WAPI Configuration  --->
                     (myApSSID) SSID
-                    (mySSIDpassphrase) Passprhase
+                    (mySSIDpassphrase) Passphrase
 
     Replace the SSID from myApSSID with your wireless router name and
-    the Passprhase with your WiFi password.
+    the Passphrase with your WiFi password.
 
     Exit and save your configuration.
 
